@@ -1,0 +1,2 @@
+Este es otro archivo creado desde local
+Segunda linea en el archivo borrado de archivoLocal.txt
